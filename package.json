@@ -1,0 +1,19 @@
+{
+  "name": "scasite",
+  "version": "1.0.0",
+  "description": "Providence Leadership Website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leadership",
+    "events",
+    "school",
+    "management",
+    "website",
+    "site"
+  ],
+  "author": "Maxim Stassenko",
+  "license": "ISC"
+}
